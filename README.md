@@ -1,8 +1,9 @@
 # Portfolio_Optimization_Analysis
 Analysis of different portfolio allocation strategies and estimation of Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR) using 
 
-**Parametric
-
-**Historical Simulation 
-
-**Monte Carlo Simulation methods.
+**Historical VaR Simulation**
+Historical VaR consists of calculating the nth worst outcome out of the historical sample.
+**Parametric VaRc**
+Parametric VaR assumes that the set of possible outcomes behaves like a **Normal (Gaussian) Distribution**.
+**Monte Carlo Simulation methods**
+Monte Carlo VaR uses a computational technique called Monte Carlo Simulation to generate scenarios based on historical data.
