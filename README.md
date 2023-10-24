@@ -1,5 +1,8 @@
 # Portfolio_Optimization_Analysis
-Analysis of different portfolio allocation strategies and estimation of Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR) using 
+This project will look into analyzing different portfolio strategies and **market risk exposure**
+
+
+## Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR) using 
 
 **Historical VaR Simulation**
 Historical VaR consists of calculating the nth worst outcome out of the historical sample.
