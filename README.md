@@ -13,7 +13,7 @@ This project will look into analyzing different portfolio strategies and **marke
 **Monte Carlo Simulation methods**
 : Monte Carlo VaR uses a computational technique called Monte Carlo Simulation to generate scenarios based on historical data.
 
-** Requirements:**
+**Requirements**
 pandas
 numpy
 scipy
