@@ -18,10 +18,17 @@ This project will look into analyzing different portfolio strategies and **marke
 pandas
 
 numpy
+
 scipy
+
 datetime
+
 matplotlib
+
 seaborn
+
 yfinance
+
 pypfopt
+
 ***Credit***: https://github.com/FLopes045
