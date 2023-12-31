@@ -15,7 +15,6 @@ This project will look into analyzing different portfolio strategies and **marke
 
 **Requirements**
 ------------------------------------------
-:  
 pandas
 
 numpy
